@@ -29,7 +29,7 @@ The dataset contains documents from five enterprises. Each folder includes mixed
 * **Total Files:** 51
 * **Formats:** PDF, MD, HTML, DOCX, PPTX
 * **Industry:** Automotive
-* **Logo:** Available at `metadata/Aventro Motors.jpg`
+![Aventro Motors](https://raw.githubusercontent.com/udayallu/RAG-Multi-Corpus/main/metadata/Aventro%20Motors.jpg)
 
 ### 2. CloudWay 24
 
