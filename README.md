@@ -36,24 +36,28 @@ The dataset contains documents from five enterprises. Each folder includes mixed
 * **Total Files:** 38
 * **Formats:** PDF, MD, HTML, DOCX, PPTX
 * **Industry:** Cloud & SaaS
+<img src="https://github.com/udayallu/RAG-Multi-Corpus/blob/main/metadata/Cloudway%2024.jpg" width="120"/>
 
 ### 3. Cendara University
 
 * **Total Files:** 41
 * **Formats:** PDF, MD, HTML, DOCX, PPTX
 * **Industry:** Academia & Education
+<img src="https://github.com/udayallu/RAG-Multi-Corpus/blob/main/metadata/Cendara%20University.jpg" width="120"/>
 
 ### 4. Velvera Technologies
 
 * **Total Files:** 39
 * **Formats:** PDF, MD, HTML, DOCX, PPTX
 * **Industry:** Enterprise Technology
+<img src="https://github.com/udayallu/RAG-Multi-Corpus/blob/main/metadata/Velvera%20Technologies.jpg" width="120"/>
 
 ### 5. ZX Bank
 
 * **Total Files:** 72
 * **Formats:** PDF, MD, HTML, DOCX, PPTX
 * **Industry:** Banking & Finance
+<img src="https://github.com/udayallu/RAG-Multi-Corpus/blob/main/metadata/zx%20bank.jpg" width="120"/>
 
 ## Applications
 
