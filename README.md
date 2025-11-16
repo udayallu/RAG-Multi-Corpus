@@ -59,18 +59,6 @@ The dataset contains documents from five enterprises. Each folder includes mixed
 * **Industry:** Banking & Finance
 <img src="https://github.com/udayallu/RAG-Multi-Corpus/blob/main/metadata/zx%20bank.jpg" width="120"/>
 
-## Applications
-
-RAG-Multi-Corpus is designed for researchers, developers, and organizations working on:
-
-* Retrieval‑Augmented Generation evaluation
-* Document parser benchmarking (web parsers, PDF parsers, HTML scrapers)
-* Chunking strategy experiments (fixed, recursive, semantic chunking)
-* Embedding quality tests across heterogeneous content
-* Retrieval precision/recall benchmarking
-* RAG hallucination detection and grounding accuracy
-* End-to-end QA system evaluation
-
 ## Benchmark Tasks
 
 Some suggested benchmark tasks include:
