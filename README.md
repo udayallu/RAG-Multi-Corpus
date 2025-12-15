@@ -84,11 +84,11 @@ RAG-Multi-Corpus/
 
 ## Contributors
 
-| Name        | GitHub Profile |
-|-------------|----------------|
-| Uday Allu   | [@udayallu](https://github.com/udayallu) |
-| Sonu Kedia   | [@sonukedia55](https://github.com/sonukedia55) |
-| Tanmay Odapally  | [@todap](https://github.com/todap) |
+| Name             | GitHub Profile                                      | LinkedIn Profile |
+|------------------|-----------------------------------------------------|------------------|
+| Uday Allu        | [@udayallu](https://github.com/udayallu)             | [LinkedIn](https://www.linkedin.com/in/udayallu/) |
+| Sonu Kedia       | [@sonukedia55](https://github.com/sonukedia55)       | [LinkedIn](https://www.linkedin.com/in/sonukedia/) |
+| Tanmay Odapally  | [@todap](https://github.com/todap)                   | [LinkedIn](https://www.linkedin.com/in/tanmay-odapally-aaa3a0203/) |
 
 
 ## License
