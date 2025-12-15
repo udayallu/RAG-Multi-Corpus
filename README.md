@@ -82,6 +82,15 @@ RAG-Multi-Corpus/
  └── qa_dataset.json
 ```
 
+## Contributors
+
+| Name        | GitHub Profile |
+|-------------|----------------|
+| Uday Allu   | [@udayallu](https://github.com/udayallu) |
+| Sonu Kedia   | [@sonukedia55](https://github.com/sonukedia55) |
+| Tanmay Odapally  | [@todap](https://github.com/todap) |
+
+
 ## License
 
 This dataset is provided for research and experimentation. All content is synthetic and does not represent real organizations or confidential information.
