@@ -1,0 +1,13 @@
+Category,Name,Count,Avg Recall@k,Avg Recall@k/2,Avg Precision@k,Avg Precision@k/2,Avg MRR,Avg NDCG@k,Avg NDCG@k/2
+query_type,Descriptive,138,0.9076,0.8037,0.6280,0.7053,0.8214,0.8446,0.8053
+query_type,Analytical,122,0.8934,0.7944,0.5615,0.6995,0.8097,0.8326,0.7955
+query_type,Comparative,139,0.9305,0.8837,0.6355,0.7746,0.8802,0.8969,0.8783
+query_type,Boolean,108,0.8935,0.8380,0.4799,0.6574,0.8080,0.8296,0.8114
+query_type,Temporal,24,0.8750,0.8750,0.5069,0.7917,0.8472,0.8542,0.8542
+query_type,Procedural,180,0.8957,0.8141,0.4991,0.6778,0.8161,0.8402,0.8096
+query_type,Open-Ended,75,0.9467,0.9067,0.5689,0.7511,0.8531,0.8773,0.8603
+enterprise,ZX Bank,200,0.8767,0.7993,0.6100,0.8050,0.8237,0.8394,0.8050
+enterprise,Cendara University,186,0.8817,0.7581,0.6039,0.7581,0.7828,0.8085,0.7581
+enterprise,Aventro Motors,200,0.9265,0.8826,0.5400,0.6817,0.8377,0.8631,0.8500
+enterprise,Velvera Technologies,200,0.9433,0.8967,0.4883,0.6017,0.8754,0.8953,0.8833
+overall,overall,786,0.9075,0.8355,0.5598,0.7108,0.8307,0.8523,0.8253

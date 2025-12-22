@@ -24,40 +24,29 @@ This dataset includes five fictional enterprise organizations spanning distinct 
 
 The dataset contains documents from five enterprises. Each folder includes mixed-format files representing typical enterprise documentation such as internal guides, policies, technical sheets, product descriptions, FAQs, and reports.
 
-### 1. Aventro Motors
+| Entity / Organization     | Total Files | Formats                         | Industry                | Document Types                                                                 |
+|---------------------------|-------------|----------------------------------|-------------------------|--------------------------------------------------------------------------------|
+| Aventro Motors            | 51          | PDF, MD, HTML, DOCX, PPTX        | Automotive              | Vehicle specifications, service manuals, safety protocols, marketing materials, technical documentation |
+| CloudWay 24               | 38          | PDF, MD, HTML, DOCX, PPTX        | Cloud & SaaS            | Service agreements, API documentation, pricing sheets, deployment guides, security policies |
+| Cendara University        | 41          | PDF, MD, HTML, DOCX, PPTX        | Academia & Education    | Course catalogs, academic policies, research reports, student handbooks, administrative procedures |
+| Velvera Technologies      | 39          | PDF, MD, HTML, DOCX, PPTX        | Enterprise Technology   | Product specifications, technical documentation, integration guides, release notes, support documentation |
+| ZX Bank                   | 72          | PDF, MD, HTML, DOCX, PPTX        | Banking & Finance       | Account policies, compliance documentation, financial reports, service terms, regulatory guidelines |
 
-* **Total Files:** 51
-* **Formats:** PDF, MD, HTML, DOCX, PPTX
-* **Industry:** Automotive
-<img src="https://raw.githubusercontent.com/udayallu/RAG-Multi-Corpus/main/metadata/Aventro%20Motors.jpg" width="120"/>
 
-### 2. CloudWay 24
+### Query Distribution by Category
 
-* **Total Files:** 38
-* **Formats:** PDF, MD, HTML, DOCX, PPTX
-* **Industry:** Cloud & SaaS
-<img src="https://github.com/udayallu/RAG-Multi-Corpus/blob/main/metadata/Cloudway%2024.jpg" width="120"/>
+| Category     | Count | Percentage | Description                                                     |
+|--------------|-------|------------|-----------------------------------------------------------------|
+| Descriptive  | 138   | 17.6%      | Questions seeking factual descriptions or definitions            |
+| Analytical   | 122   | 15.5%      | Questions requiring analysis, interpretation, or inference       |
+| Comparative  | 139   | 17.7%      | Questions comparing entities, features, or concepts              |
+| Boolean      | 108   | 13.7%      | Yes/no questions testing factual recall                          |
+| Temporal     | 24    | 3.1%       | Questions involving time-based information or sequences          |
+| Procedural  | 180   | 22.9%      | Questions about processes, steps, or how-to information          |
+| Open-Ended  | 75    | 9.5%       | Complex questions requiring synthesis of multiple sources        |
+| **Total**    | **786** | **100%**   | —                                                               |
 
-### 3. Cendara University
 
-* **Total Files:** 41
-* **Formats:** PDF, MD, HTML, DOCX, PPTX
-* **Industry:** Academia & Education
-<img src="https://github.com/udayallu/RAG-Multi-Corpus/blob/main/metadata/Cendara%20University.jpg" width="120"/>
-
-### 4. Velvera Technologies
-
-* **Total Files:** 39
-* **Formats:** PDF, MD, HTML, DOCX, PPTX
-* **Industry:** Enterprise Technology
-<img src="https://github.com/udayallu/RAG-Multi-Corpus/blob/main/metadata/Velvera%20Technologies.jpg" width="120"/>
-
-### 5. ZX Bank
-
-* **Total Files:** 72
-* **Formats:** PDF, MD, HTML, DOCX, PPTX
-* **Industry:** Banking & Finance
-<img src="https://github.com/udayallu/RAG-Multi-Corpus/blob/main/metadata/zx%20bank.jpg" width="120"/>
 
 ## Benchmark Tasks
 
@@ -69,18 +58,7 @@ Some suggested benchmark tasks include:
 4. **Cross‑format Consistency** – Compare performance across identical content represented in different file types.
 5. **Enterprise‑scale RAG Simulation** – Build production‑like RAG systems with multi-domain, multi-format corpora.
 
-## Folder Structure
 
-```
-RAG-Multi-Corpus/
- ├── Aventro Motors/
- ├── CloudWay 24/
- ├── Cendara University/
- ├── Velvera Technologies/
- ├── ZX Bank/
- ├── metadata/
- └── qa_dataset.json
-```
 
 ## Contributors
 
